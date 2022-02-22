@@ -1,2 +1,2 @@
-# LoremIpsum
+# Lorem Ipsum
 Szoftverfejlesztés csapatmunka
