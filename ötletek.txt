@@ -1,1 +1,1 @@
-
+beállítási lehetőség - pálya széle nyitott vagy zárt (folytatódik a pálya másik végén vagy fal)
